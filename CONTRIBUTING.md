@@ -17,6 +17,7 @@ Contributions that provide clear, functional value to the project are prioritize
  * Typos / grammar : changes to comments or documentation that do not affect clarity or correctness
  * Purely cosmetic changes: Code reformatting, changing whitespace or any type of adjustments that do not impact functionality or break builds
  * Farming: Pull requests that appear to be made solely to increase GitHub contribution stats without providing a tangible benefit to the codebase
+ * Changes that do not adhere to the Security Policy
 
  That you dedicate your time to contribute is much appreciated, but please understand the rationale behind the above list: maintaining these repositories also demands time from the maintainer.
 
